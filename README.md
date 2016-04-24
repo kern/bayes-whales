@@ -1,8 +1,8 @@
 # bayes-whales
 
-Deep convnet binary image classifier for finding quality ocean images in the NOAA Whales Aerial dataset. Submission for [Bayes Hack 2016](http://bayeshack.org/)
+Image classifier for finding quality ocean images in the NOAA Whales Aerial dataset. Uses a deep convolution network for binary classification. Submission for [Bayes Hack 2016](http://bayeshack.org/).
 
-[**Play with a demo on a pretrained net.**](http://54.151.14.52/)
+[**Play with a demo on a pretrained net. (accuracy: 92.67%)**](http://54.151.14.52/)
 
 ![example screenshot](https://raw.githubusercontent.com/kern/bayes-whales/master/resources/screenshot.png)
 
