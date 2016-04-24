@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="arrow" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <path d="M27.4261456,0.738942194 C26.0801951,-0.390668599 24.0724468,-0.203447849 22.9354436,1.15184869 L14.7529988,10.9052424 C13.6187639,12.2572392 13.7837171,14.2735579 15.1276152,15.4014461 L56.3523831,50 L15.1275622,84.5985984 C13.7836934,85.726462 13.6187639,87.7427608 14.7529988,89.0947576 L22.9354436,98.8481513 C24.0724468,100.203448 26.0801951,100.390669 27.4261456,99.2610578 L86,49.9982855 L27.4261456,0.738942194 Z" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
